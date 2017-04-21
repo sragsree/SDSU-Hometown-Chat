@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "116881921346",
+    "firebase_url": "https://sdsuchat-95adc.firebaseio.com",
+    "project_id": "sdsuchat-95adc",
+    "storage_bucket": "sdsuchat-95adc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116881921346:android:1d915f36bf1ccc2c",
+        "android_client_info": {
+          "package_name": "com.example.sreer.sdsuchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116881921346-faqiortumsk9jdi6h14flf3vq2nq1dlb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sreer.sdsuchat",
+            "certificate_hash": "dc40fed4f2ddc61834ce56ddccf67d4318de351b"
+          }
+        },
+        {
+          "client_id": "116881921346-o2n4rip0g7ftl58v37lrf1lnq4fn6aed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfms68cxQor4c9QfAIsoUh3db_hqp4x6U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116881921346-o2n4rip0g7ftl58v37lrf1lnq4fn6aed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
